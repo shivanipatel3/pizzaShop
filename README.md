@@ -1,0 +1,2 @@
+# pizzaShop
+SWE 3313 SYSTEM PROJECT DESCRIPTION Spring 2017  You are to design a pizza order and delivery system for a new Pizza Shop.  This is a brand new, "Mom and Pop" type, start-up operation.  This shop is a pickup or delivery only business-- there is no restaurant dining.  You are to design the whole computer system that will set up new customers, take orders, calculate bills, process payments, and contain the restaurant menu.
